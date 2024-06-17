@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\havalimaniotomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|solutionrelative:havalimaniotomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\havalimaniotomasyonu\\yolcusil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|solutionrelative:havalimaniotomasyonu\\yolcusil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|c:\\users\\burakozdemir\\source\\repos\\havalimaniotomasyonu\\havalimaniotomasyonu\\yolcuekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|solutionrelative:havalimaniotomasyonu\\yolcuekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\havalimaniotomasyonu\\yolcuekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|solutionrelative:havalimaniotomasyonu\\yolcuekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\havalimaniotomasyonu\\u\u00E7u\u015Flar\u0131g\u00F6ster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|solutionrelative:havalimaniotomasyonu\\u\u00E7u\u015Flar\u0131g\u00F6ster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\havalimaniotomasyonu\\u\u00E7u\u015Fg\u00FCncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|solutionrelative:havalimaniotomasyonu\\u\u00E7u\u015Fg\u00FCncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\havalimaniotomasyonu\\u\u00E7u\u015Fekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|solutionrelative:havalimaniotomasyonu\\u\u00E7u\u015Fekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\havalimaniotomasyonu\\havalimanlar\u0131n\u0131g\u00F6ster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|solutionrelative:havalimaniotomasyonu\\havalimanlar\u0131n\u0131g\u00F6ster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\havalimaniotomasyonu\\havaliman\u0131sil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|solutionrelative:havalimaniotomasyonu\\havaliman\u0131sil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\havalimaniotomasyonu\\havaliman\u0131ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|solutionrelative:havalimaniotomasyonu\\havaliman\u0131ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\havalimaniotomasyonu\\u\u00E7u\u015Fsil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|solutionrelative:havalimaniotomasyonu\\u\u00E7u\u015Fsil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\havalimaniotomasyonu\\u\u00E7u\u015Fekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|solutionrelative:havalimaniotomasyonu\\u\u00E7u\u015Fekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\havalimaniotomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|solutionrelative:havalimaniotomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\havalimaniotomasyonu\\havalimanlar\u0131n\u0131g\u00F6ster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|solutionrelative:havalimaniotomasyonu\\havalimanlar\u0131n\u0131g\u00F6ster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\havalimaniotomasyonu\\u\u00E7u\u015Flar\u0131g\u00F6ster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|solutionrelative:havalimaniotomasyonu\\u\u00E7u\u015Flar\u0131g\u00F6ster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\havalimaniotomasyonu\\havaliman\u0131ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|solutionrelative:havalimaniotomasyonu\\havaliman\u0131ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\havalimaniotomasyonu\\havaliman\u0131sil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|solutionrelative:havalimaniotomasyonu\\havaliman\u0131sil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\havalimaniotomasyonu\\yolcusil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|solutionrelative:havalimaniotomasyonu\\yolcusil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\havalimaniotomasyonu\\u\u00E7u\u015Fsil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|solutionrelative:havalimaniotomasyonu\\u\u00E7u\u015Fsil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\havalimaniotomasyonu\\u\u00E7u\u015Fg\u00FCncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0DAB7168-C78E-4AA8-B4DE-DCB2C570C640}|HavalimaniOtomasyonu\\HavalimaniOtomasyonu.csproj|solutionrelative:havalimaniotomasyonu\\u\u00E7u\u015Fg\u00FCncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "U\u00E7u\u015FSil.cs",
+              "DocumentMoniker": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\U\u00E7u\u015FSil.cs",
+              "RelativeDocumentMoniker": "HavalimaniOtomasyonu\\U\u00E7u\u015FSil.cs",
+              "ToolTip": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\U\u00E7u\u015FSil.cs",
+              "RelativeToolTip": "HavalimaniOtomasyonu\\U\u00E7u\u015FSil.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:25:46.615Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Havaliman\u0131Ekle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\Havaliman\u0131Ekle.cs",
+              "RelativeDocumentMoniker": "HavalimaniOtomasyonu\\Havaliman\u0131Ekle.cs",
+              "ToolTip": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\Havaliman\u0131Ekle.cs [Design]",
+              "RelativeToolTip": "HavalimaniOtomasyonu\\Havaliman\u0131Ekle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:25:00.905Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Havaliman\u0131Ekle.cs",
+              "DocumentMoniker": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\Havaliman\u0131Ekle.cs",
+              "RelativeDocumentMoniker": "HavalimaniOtomasyonu\\Havaliman\u0131Ekle.cs",
+              "ToolTip": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\Havaliman\u0131Ekle.cs",
+              "RelativeToolTip": "HavalimaniOtomasyonu\\Havaliman\u0131Ekle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:26:25.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Havaliman\u0131Sil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\Havaliman\u0131Sil.cs",
+              "RelativeDocumentMoniker": "HavalimaniOtomasyonu\\Havaliman\u0131Sil.cs",
+              "ToolTip": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\Havaliman\u0131Sil.cs [Design]",
+              "RelativeToolTip": "HavalimaniOtomasyonu\\Havaliman\u0131Sil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:25:02.997Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Havaliman\u0131Sil.cs",
+              "DocumentMoniker": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\Havaliman\u0131Sil.cs",
+              "RelativeDocumentMoniker": "HavalimaniOtomasyonu\\Havaliman\u0131Sil.cs",
+              "ToolTip": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\Havaliman\u0131Sil.cs",
+              "RelativeToolTip": "HavalimaniOtomasyonu\\Havaliman\u0131Sil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:26:22.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Havalimanlar\u0131n\u0131G\u00F6ster.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\Havalimanlar\u0131n\u0131G\u00F6ster.cs",
+              "RelativeDocumentMoniker": "HavalimaniOtomasyonu\\Havalimanlar\u0131n\u0131G\u00F6ster.cs",
+              "ToolTip": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\Havalimanlar\u0131n\u0131G\u00F6ster.cs [Design]",
+              "RelativeToolTip": "HavalimaniOtomasyonu\\Havalimanlar\u0131n\u0131G\u00F6ster.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:25:03.899Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Havalimanlar\u0131n\u0131G\u00F6ster.cs",
+              "DocumentMoniker": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\Havalimanlar\u0131n\u0131G\u00F6ster.cs",
+              "RelativeDocumentMoniker": "HavalimaniOtomasyonu\\Havalimanlar\u0131n\u0131G\u00F6ster.cs",
+              "ToolTip": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\Havalimanlar\u0131n\u0131G\u00F6ster.cs",
+              "RelativeToolTip": "HavalimaniOtomasyonu\\Havalimanlar\u0131n\u0131G\u00F6ster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:26:19.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "u\u00E7u\u015FEkle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\u\u00E7u\u015FEkle.cs",
+              "RelativeDocumentMoniker": "HavalimaniOtomasyonu\\u\u00E7u\u015FEkle.cs",
+              "ToolTip": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\u\u00E7u\u015FEkle.cs [Design]",
+              "RelativeToolTip": "HavalimaniOtomasyonu\\u\u00E7u\u015FEkle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:25:05.744Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "u\u00E7u\u015FEkle.cs",
+              "DocumentMoniker": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\u\u00E7u\u015FEkle.cs",
+              "RelativeDocumentMoniker": "HavalimaniOtomasyonu\\u\u00E7u\u015FEkle.cs",
+              "ToolTip": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\u\u00E7u\u015FEkle.cs",
+              "RelativeToolTip": "HavalimaniOtomasyonu\\u\u00E7u\u015FEkle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:26:04.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "U\u00E7u\u015FG\u00FCncelle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\U\u00E7u\u015FG\u00FCncelle.cs",
+              "RelativeDocumentMoniker": "HavalimaniOtomasyonu\\U\u00E7u\u015FG\u00FCncelle.cs",
+              "ToolTip": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\U\u00E7u\u015FG\u00FCncelle.cs [Design]",
+              "RelativeToolTip": "HavalimaniOtomasyonu\\U\u00E7u\u015FG\u00FCncelle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:25:06.308Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "U\u00E7u\u015FG\u00FCncelle.cs",
+              "DocumentMoniker": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\U\u00E7u\u015FG\u00FCncelle.cs",
+              "RelativeDocumentMoniker": "HavalimaniOtomasyonu\\U\u00E7u\u015FG\u00FCncelle.cs",
+              "ToolTip": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\U\u00E7u\u015FG\u00FCncelle.cs",
+              "RelativeToolTip": "HavalimaniOtomasyonu\\U\u00E7u\u015FG\u00FCncelle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:26:00.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "U\u00E7u\u015Flar\u0131G\u00F6ster.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\U\u00E7u\u015Flar\u0131G\u00F6ster.cs",
+              "RelativeDocumentMoniker": "HavalimaniOtomasyonu\\U\u00E7u\u015Flar\u0131G\u00F6ster.cs",
+              "ToolTip": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\U\u00E7u\u015Flar\u0131G\u00F6ster.cs [Design]",
+              "RelativeToolTip": "HavalimaniOtomasyonu\\U\u00E7u\u015Flar\u0131G\u00F6ster.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:25:07.008Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "U\u00E7u\u015Flar\u0131G\u00F6ster.cs",
+              "DocumentMoniker": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\U\u00E7u\u015Flar\u0131G\u00F6ster.cs",
+              "RelativeDocumentMoniker": "HavalimaniOtomasyonu\\U\u00E7u\u015Flar\u0131G\u00F6ster.cs",
+              "ToolTip": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\U\u00E7u\u015Flar\u0131G\u00F6ster.cs",
+              "RelativeToolTip": "HavalimaniOtomasyonu\\U\u00E7u\u015Flar\u0131G\u00F6ster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:25:52.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "U\u00E7u\u015FSil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\U\u00E7u\u015FSil.cs",
+              "RelativeDocumentMoniker": "HavalimaniOtomasyonu\\U\u00E7u\u015FSil.cs",
+              "ToolTip": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\U\u00E7u\u015FSil.cs [Design]",
+              "RelativeToolTip": "HavalimaniOtomasyonu\\U\u00E7u\u015FSil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:25:08.1Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YolcuEkle.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\YolcuEkle.cs",
+              "RelativeDocumentMoniker": "HavalimaniOtomasyonu\\YolcuEkle.cs",
+              "ToolTip": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\YolcuEkle.cs [Design]",
+              "RelativeToolTip": "HavalimaniOtomasyonu\\YolcuEkle.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:25:08.929Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YolcuEkle.cs",
+              "DocumentMoniker": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\YolcuEkle.cs",
+              "RelativeDocumentMoniker": "HavalimaniOtomasyonu\\YolcuEkle.cs",
+              "ToolTip": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\YolcuEkle.cs",
+              "RelativeToolTip": "HavalimaniOtomasyonu\\YolcuEkle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:25:32.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "YolcuSil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\YolcuSil.cs",
+              "RelativeDocumentMoniker": "HavalimaniOtomasyonu\\YolcuSil.cs",
+              "ToolTip": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\YolcuSil.cs [Design]",
+              "RelativeToolTip": "HavalimaniOtomasyonu\\YolcuSil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:25:09.809Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YolcuSil.cs",
+              "DocumentMoniker": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\YolcuSil.cs",
+              "RelativeDocumentMoniker": "HavalimaniOtomasyonu\\YolcuSil.cs",
+              "ToolTip": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\YolcuSil.cs",
+              "RelativeToolTip": "HavalimaniOtomasyonu\\YolcuSil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:25:27.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\Form1.cs",
+              "RelativeDocumentMoniker": "HavalimaniOtomasyonu\\Form1.cs",
+              "ToolTip": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\Form1.cs [Design]",
+              "RelativeToolTip": "HavalimaniOtomasyonu\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:24:57.175Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\Form1.cs",
+              "RelativeDocumentMoniker": "HavalimaniOtomasyonu\\Form1.cs",
+              "ToolTip": "C:\\Users\\burakozdemir\\source\\repos\\HavalimaniOtomasyonu\\HavalimaniOtomasyonu\\Form1.cs",
+              "RelativeToolTip": "HavalimaniOtomasyonu\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:57:57.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
